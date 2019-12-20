@@ -37,4 +37,4 @@ Una "ricetta" IFTTT che - una volta attivata - ti ricorderà ogni anno che è il
 
 Dedico questo spazio alle persone con cui nella vita ho avuto il piacere di condividere questa devozione.
 
-E, grazie mille Antonio Albanese!
+E soprattuto grazie mille Antonio Albanese!!!
