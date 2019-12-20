@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="740.45385"
+     inkscape:cx="276.16814"
      inkscape:cy="375.01545"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,42 +68,6 @@
        height="95.25"
        x="-178.40475"
        y="67.946503"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12208594;stroke-miterlimit:4;stroke-dasharray:0.36625778, 0.36625778;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect815-7"
-       width="23.8125"
-       height="95.25"
-       x="-178.40475"
-       y="67.94651"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12208594;stroke-miterlimit:4;stroke-dasharray:0.36625778, 0.36625778;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect815-7-2"
-       width="23.8125"
-       height="95.25"
-       x="14.741074"
-       y="67.94651"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09514932;stroke-miterlimit:4;stroke-dasharray:0.28544793, 0.28544793;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect815-6"
-       width="216.95833"
-       height="6.3499999"
-       x="-178.40475"
-       y="67.94651"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
-       y="156.8465"
-       x="-178.40475"
-       height="6.3499999"
-       width="216.95833"
-       id="rect862"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09514932;stroke-miterlimit:4;stroke-dasharray:0.28544793, 0.28544793;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <image
