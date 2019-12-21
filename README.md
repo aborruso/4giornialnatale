@@ -37,6 +37,20 @@ Download: [`png`](https://github.com/aborruso/4giornialnatale/raw/master/risorse
 
 ![](./risorse/facebook-cover_4giorniANatale.png)
 
+### Quadrato
+
+Dimensioni: `666 x 666` pixel<br>
+Download: [`png`](https://github.com/aborruso/4giornialnatale/raw/master/risorse/quadrata-4giorniANatale.png).
+
+![](./risorse/quadrata-4giorniANatale.png)
+
+### Instagram story
+
+Dimensioni: `666 x 1184` pixel<br>
+Download: [`png`](https://github.com/aborruso/4giornialnatale/raw/master/risorse/InstagramStory-4giorniANatale.jpg).
+
+![](./risorse/InstagramStory-4giorniANatale.jpg)
+
 ## Per ricevere ogni anno un avviso via IFTTT
 
 Una "ricetta" IFTTT che - una volta attivata - ti ricorderà ogni anno che è il **21 dicembre** e potrai fare gli auguri a tutte le persone a te care: https://ifttt.com/applets/231523p-mancano-4-giorni-al-natale-per-non-dimenticare-ogni-anno-di-inviare-questo-augurio-ai-propri-cari
